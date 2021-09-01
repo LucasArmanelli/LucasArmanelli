@@ -1,5 +1,5 @@
 
-### Olá! Eu sou o Lucas Armanelli 😃
+### Olá! Eu sou o Lucas Armanelli 👋
 
 [![Site](https://img.shields.io/website?label=CreationSistemas.com.br&style=for-the-badge&url=https://creationsistemas.com.br)](https://creationsistemas.com.br)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-armanelli/)

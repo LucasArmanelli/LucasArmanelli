@@ -4,8 +4,8 @@
 [![Site](https://img.shields.io/website?label=CreationSistemas.com.br&style=for-the-badge&url=https://creationsistemas.com.br)](https://creationsistemas.com.br)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-armanelli/)
 
-![Lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasArmanelli&show_icons=true&theme=chartreuse-dark)
-
+  ![GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasArmanelli&theme=chartreuse-dark)
+ 
 ## Tecnologias 
 
 <div styles="display: inline_block"><br/>
@@ -18,5 +18,3 @@
   <img align="center" alt="BOOTSTRAP" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
 <div/>
 <br/>
-
-![GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasArmanelli&theme=chartreuse-dark)

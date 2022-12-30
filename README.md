@@ -1,6 +1,5 @@
 
 ### Hi there! I'm Lucas Armanelli, 👋
-<img src="{[BadgeURLHere](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{LucasArmanelli}1212%2Fhit-counter)}" />
 
 **Front-end** developer based in Brazil.
 

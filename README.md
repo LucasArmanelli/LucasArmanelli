@@ -3,7 +3,6 @@
 
 **Front-end** developer based in Brazil.
 
-[![Site](https://img.shields.io/website?label=Webfactory&style=for-the-badge&url=https://webfactory.fun/)](https://webfactory.fun/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-armanelli/)
 
   ![GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasArmanelli&layout=compact&theme=chartreuse-dark)
